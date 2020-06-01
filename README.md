@@ -1,5 +1,5 @@
 # Semantic segmentation of Left Ventricle with Deep Learning
-Here is my work during the REU at UC Berkeley
+Here is my work during the REU at UC Berkeley. See **report.pdf** for more detail.
 
 ## Dependency
   * Python 3.7
@@ -13,12 +13,9 @@ Here is my work during the REU at UC Berkeley
   * U-Net: https://arxiv.org/pdf/1505.04597.pdf
   * Deep Stack Transformation: https://arxiv.org/pdf/1906.03347.pdf
   
-## Training
-  * Berkeley High Pe
-  *
-  
 ## Result
   * Accuracy: 92%
+
 
 ## Sample segmentation:
 ![Daividao](prediction_example/prediction0.png)
