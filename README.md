@@ -3,7 +3,7 @@ Here is my work during the REU at UC Berkeley. See **report.pdf** for more detai
 
 ## Dependency
   * Python 3.7
-  * Tensorflow 2.0
+  * Tensorflow 2.0 (for implementing deep learning models)
   * SimpleITK (for cleaning medical images)
     
 ## Dataset
