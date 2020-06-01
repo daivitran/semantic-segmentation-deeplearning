@@ -1,12 +1,21 @@
 # Semantic segmentation of Left Ventricle with Deep Learning
 Here is my work during the REU at UC Berkeley
 
+## Dependency
+  * Python 3.7
+  * Tensorflow 2.0
+  * SimpleITK (for cleaning medical images)
+    
 ## Dataset
   * Cardiac Images from Shawn Shadden Lab at UC Berkeley
   
 ## Deep Learning Architecture
   * U-Net: https://arxiv.org/pdf/1505.04597.pdf
   * Deep Stack Transformation: https://arxiv.org/pdf/1906.03347.pdf
+  
+## Training
+  * Berkeley High Pe
+  *
   
 ## Result
   * Accuracy: 92%
